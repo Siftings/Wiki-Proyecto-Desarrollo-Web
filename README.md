@@ -22,6 +22,8 @@ La referencia de las 28 historias de usuario y su implementación en el servicio
 - [Ejemplos de API REST](docs/EJEMPLOS_API_REST.md)
 - [Pruebas y calidad](docs/PRUEBAS_CALIDAD.md)
 
+Los documentos de la entrega final y sus evidencias están en el repositorio [Documentacion-Proyecto-Desarrollo-Web](https://github.com/Siftings/Documentacion-Proyecto-Desarrollo-Web).
+
 La documentación cubre autenticación JWT, multitenencia, procesos, historial, actividades, arcos, gateways, roles, pools, lanes, procesos compartidos, permisos, eventos de mensaje, destinos externos y correlación.
 
 ## Funcionalidades actuales
